@@ -17,5 +17,7 @@ Specializations: Predictive modeling, deep learning, generative AI, and optimiza
 
 📫 Connect With Me
 Email: gokhandede.ai@gmail.com
+
 GitHub: github.com/Gokhan-Dede
+
 LinkedIn: linkedin.com/in/gokhan-dede
