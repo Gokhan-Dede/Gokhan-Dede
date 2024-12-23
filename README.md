@@ -27,5 +27,3 @@ After completing a Ph.D. focused on machine learning-aided design for extreme en
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:gokhandede.ai@gmail.com)  
 
 ---
-
-You can customize the links or icons to make them visually more attractive. Would you like help with adding a banner or icons? Let me know!
