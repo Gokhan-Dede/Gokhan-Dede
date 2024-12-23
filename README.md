@@ -1,5 +1,3 @@
-![Banner](https://user-images.githubusercontent.com/your-profile-banner.png) <!-- Replace with your banner image link -->
-
 # Hi, I am Gökhan Dede 👋  
 
 I'm a **Data Scientist** with a Ph.D. in Architecture and a passion for leveraging AI and machine learning to solve complex, data-driven challenges.  
