@@ -14,10 +14,10 @@ After completing a Ph.D. focused on machine learning-aided design for extreme en
 
 ## ⚡ Skills  
 
-- **Programming & Frameworks:** Python, TensorFlow, Keras, Scikit-learn, Hugging Face  
+- **Programming & Frameworks:** Python, TensorFlow, Keras, PyTorch, Scikit-learn, Hugging Face  
 - **Data Tools:** SQL, Pandas, NumPy, Matplotlib, Seaborn, Plotly  
 - **Cloud & Deployment:** Google Cloud Platform, Docker, FastAPI, Streamlit, MLFlow  
-- **Specializations:** Predictive modeling, deep learning, generative AI, optimization  
+- **Specializations:** Machine learning, Deep learning, Generative AI, Explainable AI
 
 ---
 
