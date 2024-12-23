@@ -1,19 +1,33 @@
-👋 About Me
-Hi there! I’m Gökhan Dede, a Data Scientist with a Ph.D. in Architecture and a passion for leveraging AI and machine learning to solve complex, data-driven challenges. After completing a Ph.D. focused on machine learning-aided design for extreme environments, I transitioned into data science and AI through a rigorous bootcamp, honing my expertise in Python, machine learning frameworks, deep learning, and cloud computing.
+![Banner](https://user-images.githubusercontent.com/your-profile-banner.png) <!-- Replace with your banner image link -->
 
-I specialize in:  
-Building predictive models, NLP, CNNs, and RNNs  
-Developing end-to-end machine learning solutions, from data preprocessing to cloud deployment  
-Applying AI-driven insights to real-world challenges across industries  
-🌱 Currently, I’m exploring cutting-edge AI techniques and working on impactful projects, like brain tumor detection with deep learning.  
-💡 Let’s connect and collaborate to create innovative solutions powered by AI and data science.
+# Hi, I am Gökhan Dede 👋  
 
-💻 Skills  
-Programming & Frameworks: Python, TensorFlow, Keras, Scikit-learn, Hugging Face  
-Data Tools: SQL, Pandas, NumPy, Matplotlib, Seaborn, Plotly  
-Cloud & Deployment: Google Cloud Platform, Docker, FastAPI, Streamlit, MLFlow  
-Specializations: Predictive modeling, deep learning, generative AI, and optimization
+I'm a **Data Scientist** with a Ph.D. in Architecture and a passion for leveraging AI and machine learning to solve complex, data-driven challenges.  
 
-📫 Connect With Me  
-Email: gokhandede.ai@gmail.com  
-LinkedIn: linkedin.com/in/gokhan-dede
+After completing a Ph.D. focused on machine learning-aided design for extreme environments, I transitioned into data science and AI through a rigorous bootcamp, honing my expertise in **Python**, **machine learning frameworks**, **deep learning**, and **cloud computing**.  
+
+🌱 **Currently:**  
+- Exploring cutting-edge AI techniques  
+- Working on impactful projects like **brain tumor detection with deep learning**  
+
+💡 **Let's collaborate** to create innovative solutions powered by AI and data science.  
+
+---
+
+## ⚡ Skills  
+
+- **Programming & Frameworks:** Python, TensorFlow, Keras, Scikit-learn, Hugging Face  
+- **Data Tools:** SQL, Pandas, NumPy, Matplotlib, Seaborn, Plotly  
+- **Cloud & Deployment:** Google Cloud Platform, Docker, FastAPI, Streamlit, MLFlow  
+- **Specializations:** Predictive modeling, deep learning, generative AI, optimization  
+
+---
+
+## 📫 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/gokhan-dede)  
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:gokhandede.ai@gmail.com)  
+
+---
+
+You can customize the links or icons to make them visually more attractive. Would you like help with adding a banner or icons? Let me know!
